@@ -7,8 +7,9 @@ this is a jupyter notebook for mnist classification using tensorflow
 
 ## Description 
 
-there are 3 models in this jupyter notebook
-using tensorflow(keras), we try 3 models, and plot classification results
+there are 3 models in this jupyter notebook using tensorflow(keras). 
+
+we try 3 models, and plot classification results
 
 ## models summary
 
