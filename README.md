@@ -31,25 +31,29 @@ using tensorflow(keras), we try 3 models, and plot classification results
       
       * error examples
       
-![Model 1 Error](/model_summary/m1_wrong.PNG)
+         ![Model 1 Error](/model_summary/m1_wrong.PNG)
+      
       * correct examples
       
-![Model 1 Correct](/model_summary/m1_correct.PNG)
+         ![Model 1 Correct](/model_summary/m1_correct.PNG)
 
 
   * model 2
 
     * error examples
       
-![Model 2 Error](/model_summary/m2_wrong.PNG)
+         ![Model 2 Error](/model_summary/m2_wrong.PNG)
+    
     * correct examples
       
-![Model 2 Correct](/model_summary/m2_correct.PNG)
+         ![Model 2 Correct](/model_summary/m2_correct.PNG)
+  
   * model 3
      
     * error examples
       
-![Model 3 Error](/model_summary/m3_wrong.PNG)
+         ![Model 3 Error](/model_summary/m3_wrong.PNG)
+    
     * correct examples
       
-![Model 3 Correct](/model_summary/m3_correct.PNG)
+         ![Model 3 Correct](/model_summary/m3_correct.PNG)
