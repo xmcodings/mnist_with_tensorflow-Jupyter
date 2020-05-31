@@ -5,12 +5,12 @@ this is a jupyter notebook for mnist classification using tensorflow
 
 
 
-# Description 
+## Description 
 
 there are 3 models in this jupyter notebook
 using tensorflow(keras), we try 3 models, and plot classification results
 
-# models summary
+## models summary
 
   * model 1
   
@@ -25,7 +25,7 @@ using tensorflow(keras), we try 3 models, and plot classification results
 ![Model 3](/model_summary/model_3.PNG) 
 
 
-# classification results
+## classification results
   
    * model 1
       
@@ -57,3 +57,14 @@ using tensorflow(keras), we try 3 models, and plot classification results
     * correct examples
       
          ![Model 3 Correct](/model_summary/m3_correct.PNG)
+
+## Accuracy
+
+* model 1
+  * **test : 0.9728**
+  
+* model 2
+  * **test : 0.9844**
+
+* model 3
+  * **test : 0.9889**
