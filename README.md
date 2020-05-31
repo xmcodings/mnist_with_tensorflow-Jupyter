@@ -25,29 +25,40 @@ we try **model 3**, and plot classification results.
   
 ![Model 3](/model_summary/model_3.PNG) 
 
-## model 3 
+## 1. Create Model 3 
+we create model with 7 layers and 4 convolutional layer
 
+![Create Model 3](/model_3_specifications/model_code.PNG) 
+
+## 2. Train Model  
+we train for 5 epochs
+
+![Training Model 3](/model_3_specifications/training.PNG) 
+
+## 3. Test Model  
+testing with 10000 testing data 
+
+![Testing Model 3](/model_3_specifications/testing.PNG) 
 
 
 ## classification results
   
-### model 3
+### plot correct results
+
+![Model 3 Correct](/model_3_specifications/correct_plot.PNG)
+  
+### examples
      
 * error examples
       
-    ![Model 3 Error](/model_summary/m3_wrong.PNG)
+    ![Error Examples](/model_summary/m3_wrong.PNG)
     
 * correct examples
       
-    ![Model 3 Correct](/model_summary/m3_correct.PNG)
+    ![Correct Examples](/model_summary/m3_correct.PNG)
 
-## Accuracy
+# 3 Line Summary
 
-* model 1
-  * **test : 0.9728**
-  
-* model 2
-  * **test : 0.9844**
-
-* model 3
-  * **test : 0.9889**
+1. create model with 7 layers including 4 convolutional layers
+2. test 5 epochs, final test loss: 0.0325, final test accuracy: 0.9902
+3. testing accuracy : 0.9889
